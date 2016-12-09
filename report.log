@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 DEC 2016 01:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 DEC 2016 01:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -122,18 +122,18 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -226,59 +226,113 @@ e
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5]
-Underfull \hbox (badness 2932) in paragraph at lines 88--89
+[2] [3] [4] <darkMatterRotation.png, id=27, 612.2875pt x 260.975pt>
+File: darkMatterRotation.png Graphic file (type png)
+
+<use darkMatterRotation.png>
+Package pdftex.def Info: darkMatterRotation.png used on input line 112.
+(pdftex.def)             Requested size: 361.34999pt x 154.01772pt.
+ [5] [6 <./darkMatterRotation.png>]
+<bulletCluster.png, id=36, 501.875pt x 410.53375pt>
+File: bulletCluster.png Graphic file (type png)
+ <use bulletCluster.png>
+Package pdftex.def Info: bulletCluster.png used on input line 127.
+(pdftex.def)             Requested size: 265.04288pt x 216.81pt.
+
+[7 <./bulletCluster.png>] <marushaCluster.png, id=41, 501.875pt x 404.51125pt>
+File: marushaCluster.png Graphic file (type png)
+
+<use marushaCluster.png>
+Package pdftex.def Info: marushaCluster.png used on input line 141.
+(pdftex.def)             Requested size: 268.9944pt x 216.81pt.
+
+Overfull \hbox (11.50977pt too wide) in paragraph at lines 145--145
+[]\OT1/cmr/bx/n/17.28 Observational tests of MOND and rel-a-tivis-tic MOND 
+ []
+
+[8 <./marushaCluster.png>] <pendulum.png, id=45, 677.53125pt x 477.785pt>
+File: pendulum.png Graphic file (type png)
+
+<use pendulum.png>
+Package pdftex.def Info: pendulum.png used on input line 161.
+(pdftex.def)             Requested size: 307.45013pt x 216.81pt.
+ [9 <./pendulum.png>]
+<mondRotation.png, id=51, 768.8725pt x 328.22626pt>
+File: mondRotation.png Graphic file (type png)
+ <use mondRotation.png>
+Package pdftex.def Info: mondRotation.png used on input line 172.
+(pdftex.def)             Requested size: 361.34999pt x 154.26135pt.
+
+<tidalDwarf.png, id=52, 807.015pt x 302.12875pt>
+File: tidalDwarf.png Graphic file (type png)
+ <use tidalDwarf.png>
+Package pdftex.def Info: tidalDwarf.png used on input line 182.
+(pdftex.def)             Requested size: 433.62pt x 162.34032pt.
+ [10 <./mondRotation.png>] [11 <./tidalDwarf.png>]
+
+LaTeX Warning: Citation `Mavromatos' on page 12 undefined on input line 197.
+
+
+LaTeX Warning: Citation `Mavromatos' on page 12 undefined on input line 199.
+
+
+LaTeX Warning: Citation `Mavromatos' on page 12 undefined on input line 209.
+
+
+LaTeX Warning: Citation `Mavromatos' on page 12 undefined on input line 211.
+
+<tevesclustertab.png, id=61, 624.3325pt x 211.79124pt>
+File: tevesclustertab.png Graphic file (type png)
+
+<use tevesclustertab.png>
+Package pdftex.def Info: tevesclustertab.png used on input line 215.
+(pdftex.def)             Requested size: 433.62pt x 147.09915pt.
+
+
+LaTeX Warning: Citation `Mavromatos' on page 12 undefined on input line 216.
+
+
+LaTeX Warning: Citation `Mavromatos' on page 12 undefined on input line 216.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 []\OT1/cmr/m/n/12 Particle Dark Mat-ter: Ev-i-dence, Can-di-dates, and Con-stra
 ints.
  []
 
+[13 <./tevesclustertab.png>] [14] (./report.aux)
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-[]\OT1/cmr/m/n/12 Plank 2015 re-sults. XIII. Cos-mo-log-i-cal Pa-ram-e-ters
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 94--96
-[]\OT1/cmr/m/n/12 Milgrom, M., ?A mod-i-fi-ca-tion of the New-to-nian dy-nam-ic
-s: Im-
- []
+LaTeX Warning: There were undefined references.
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 94--96
-\OT1/cmr/m/n/12 pli-ca-tions for galax-ies?, As-tro-phys. J., 270, 371?383, (19
-83).
- []
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
-[]\OT1/cmr/m/n/12 Can TeVeS be a vi-able the-ory of grav-ity?
- []
-
-[6] (./report.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 2660 strings out of 493014
- 38214 string characters out of 6133351
- 105886 words of memory out of 5000000
- 6182 multiletter control sequences out of 15000+600000
- 12272 words of font info for 44 fonts, out of 8000000 for 9000
+ 2720 strings out of 493014
+ 39213 string characters out of 6133351
+ 106954 words of memory out of 5000000
+ 6232 multiletter control sequences out of 15000+600000
+ 13197 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,6n,27p,1068b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on report.pdf (6 pages, 146513 bytes).
+ 51i,6n,27p,1103b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (14 pages, 604255 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
